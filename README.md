@@ -1,2 +1,4 @@
-# Betty
+#!/bin/bash
+betty
+
  
